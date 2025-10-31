@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- https://go.microsoft.com/fwlink/?LinkID=208121. -->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\APLICACIONES DISTRIBUIDAS\TAREA 1\SERVER ULTIMA VERSION\Ferreteria_Soap</_PublishTargetUrl>
+    <History>True|2025-10-29T23:12:44.7533576Z||;True|2025-10-28T22:35:57.0070754-05:00||;True|2025-10-28T17:33:50.7104080-05:00||;True|2025-10-28T16:40:58.2980734-05:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Admin.aspx">
+      <publishTime>10/29/2025 18:20:04</publishTime>
+    </File>
+    <File Include="bin/FerreteriaSoap.dll">
+      <publishTime>10/29/2025 18:21:06</publishTime>
+    </File>
+    <File Include="bin/FerreteriaSoap.pdb">
+      <publishTime>10/29/2025 18:21:06</publishTime>
+    </File>
+    <File Include="Service1.svc">
+      <publishTime>10/28/2025 15:39:57</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>10/28/2025 22:41:02</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

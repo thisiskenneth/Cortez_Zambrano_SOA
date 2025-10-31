@@ -1,0 +1,14 @@
+C:\APLICACIONES DISTRIBUIDAS\TAREA 1\SERVER ULTIMA VERSION\FerreteriaSoap\FerreteriaSoap\bin\FerreteriaSoap.dll.config
+C:\APLICACIONES DISTRIBUIDAS\TAREA 1\SERVER ULTIMA VERSION\FerreteriaSoap\FerreteriaSoap\bin\FerreteriaSoap.dll
+C:\APLICACIONES DISTRIBUIDAS\TAREA 1\SERVER ULTIMA VERSION\FerreteriaSoap\FerreteriaSoap\bin\FerreteriaSoap.pdb
+C:\APLICACIONES DISTRIBUIDAS\TAREA 1\SERVER ULTIMA VERSION\FerreteriaSoap\FerreteriaSoap\obj\Debug\FerreteriaSoap.csproj.AssemblyReference.cache
+C:\APLICACIONES DISTRIBUIDAS\TAREA 1\SERVER ULTIMA VERSION\FerreteriaSoap\FerreteriaSoap\obj\Debug\FerreteriaSoap.csproj.CoreCompileInputs.cache
+C:\APLICACIONES DISTRIBUIDAS\TAREA 1\SERVER ULTIMA VERSION\FerreteriaSoap\FerreteriaSoap\obj\Debug\FerreteriaSoap.dll
+C:\APLICACIONES DISTRIBUIDAS\TAREA 1\SERVER ULTIMA VERSION\FerreteriaSoap\FerreteriaSoap\obj\Debug\FerreteriaSoap.pdb
+C:\Users\Kenneth\Documents\ESPE\8vo Semestre\Aplicaciones Distribuidas\1er Parcial\Soluciones\SERVER ULTIMA VERSION\FerreteriaSoap\FerreteriaSoap\bin\FerreteriaSoap.dll.config
+C:\Users\Kenneth\Documents\ESPE\8vo Semestre\Aplicaciones Distribuidas\1er Parcial\Soluciones\SERVER ULTIMA VERSION\FerreteriaSoap\FerreteriaSoap\bin\FerreteriaSoap.dll
+C:\Users\Kenneth\Documents\ESPE\8vo Semestre\Aplicaciones Distribuidas\1er Parcial\Soluciones\SERVER ULTIMA VERSION\FerreteriaSoap\FerreteriaSoap\bin\FerreteriaSoap.pdb
+C:\Users\Kenneth\Documents\ESPE\8vo Semestre\Aplicaciones Distribuidas\1er Parcial\Soluciones\SERVER ULTIMA VERSION\FerreteriaSoap\FerreteriaSoap\obj\Debug\FerreteriaSoap.csproj.AssemblyReference.cache
+C:\Users\Kenneth\Documents\ESPE\8vo Semestre\Aplicaciones Distribuidas\1er Parcial\Soluciones\SERVER ULTIMA VERSION\FerreteriaSoap\FerreteriaSoap\obj\Debug\FerreteriaSoap.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth\Documents\ESPE\8vo Semestre\Aplicaciones Distribuidas\1er Parcial\Soluciones\SERVER ULTIMA VERSION\FerreteriaSoap\FerreteriaSoap\obj\Debug\FerreteriaSoap.dll
+C:\Users\Kenneth\Documents\ESPE\8vo Semestre\Aplicaciones Distribuidas\1er Parcial\Soluciones\SERVER ULTIMA VERSION\FerreteriaSoap\FerreteriaSoap\obj\Debug\FerreteriaSoap.pdb

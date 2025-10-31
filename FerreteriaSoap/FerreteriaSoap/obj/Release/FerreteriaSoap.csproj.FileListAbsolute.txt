@@ -1,0 +1,7 @@
+C:\APLICACIONES DISTRIBUIDAS\TAREA 1\SERVER ULTIMA VERSION\FerreteriaSoap\FerreteriaSoap\bin\FerreteriaSoap.dll.config
+C:\APLICACIONES DISTRIBUIDAS\TAREA 1\SERVER ULTIMA VERSION\FerreteriaSoap\FerreteriaSoap\bin\FerreteriaSoap.dll
+C:\APLICACIONES DISTRIBUIDAS\TAREA 1\SERVER ULTIMA VERSION\FerreteriaSoap\FerreteriaSoap\bin\FerreteriaSoap.pdb
+C:\APLICACIONES DISTRIBUIDAS\TAREA 1\SERVER ULTIMA VERSION\FerreteriaSoap\FerreteriaSoap\obj\Release\FerreteriaSoap.csproj.AssemblyReference.cache
+C:\APLICACIONES DISTRIBUIDAS\TAREA 1\SERVER ULTIMA VERSION\FerreteriaSoap\FerreteriaSoap\obj\Release\FerreteriaSoap.csproj.CoreCompileInputs.cache
+C:\APLICACIONES DISTRIBUIDAS\TAREA 1\SERVER ULTIMA VERSION\FerreteriaSoap\FerreteriaSoap\obj\Release\FerreteriaSoap.dll
+C:\APLICACIONES DISTRIBUIDAS\TAREA 1\SERVER ULTIMA VERSION\FerreteriaSoap\FerreteriaSoap\obj\Release\FerreteriaSoap.pdb
